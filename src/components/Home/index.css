@@ -1,0 +1,43 @@
+.website-logo {
+  height: 50px;
+  width: 100px;
+}
+.home-container {
+  background-color: #183b56;
+  height: 100vh;
+  background-size: cover;
+}
+.logout-button {
+  border: 2px solid #ffffff;
+  background-color: #183b56;
+  color: #ffffff;
+  height: 40px;
+  width: 100px;
+  cursor: pointer;
+}
+.nav-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+  cursor: pointer;
+}
+.digital-card {
+  height: 50vh;
+  width: 50vw;
+}
+.digital-card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.flexibility-heading {
+  font-size: 26px;
+  color: #ffffff;
+  font-weight: bold;
+  font-family: 'Roboto';
+  text-align: center;
+}
